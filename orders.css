@@ -142,13 +142,13 @@ body {
 .Mrp{
     font-size: small;
 }
-/* .price{
-    font-size: medium;
+.price{
+    font-size: 12px;
     padding-top: -50px;
  
 
     
-} */
+}
 
 .priceMRP{
     padding-left: 15px;
@@ -335,13 +335,13 @@ a {
 
 }
 
-
+/* 
 .navbar-nav a:hover {
 border: 2px solid black;
 color: #fff;
 border-radius: 30px;
 
-}
+} */
 .navbar {
   max-width:  481px — 768px;
   width: 100%;
